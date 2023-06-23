@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=X1-5
+Change Component Footprint: Designator=X1 Old Footprint=Micro USB New Footprint=PLS-04
+Change component parameters: Designator = "X1" ("X1"); Footprint = "Micro USB"; UniqueID = "\JHPNPWEU" ("\JHPNPWEU")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "8EDGVC-3.5-04P"; VariantName = "[No Variations]"

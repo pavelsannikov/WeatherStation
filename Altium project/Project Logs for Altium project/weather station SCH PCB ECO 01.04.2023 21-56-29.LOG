@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=VCC Pin=R2-2
+Removed Pin From Net: NetName=VCC Pin=VT1-3
+Removed Member From Class: ClassName=weather station PCB Member=R2
+Removed Member From Class: ClassName=weather station PCB Member=VT1
+Added Pin To Net: NetName=VCC Pin=C13-2
+Added Pin To Net: NetName=VCC Pin=DD3-3
+Added Pin To Net: NetName=VCC Pin=DD3-7
+Added Pin To Net: NetName=VCC Pin=DD3-8
+Added Pin To Net: NetName=VCC Pin=DD5-1
+Added Pin To Net: NetName=VCC Pin=DD6-1
+Added Pin To Net: NetName=VCC Pin=HL1-3
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Pin To Net: NetName=VCC Pin=R4-2
+Added Pin To Net: NetName=VCC Pin=R5-2

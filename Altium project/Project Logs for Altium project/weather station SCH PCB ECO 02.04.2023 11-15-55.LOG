@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=X1 Old Footprint=PLS-04 New Footprint=Micro USB
+Change component parameters: Designator = "X1" ("X1"); Footprint = "PLS-04"; UniqueID = "\IRFWQLKF" ("\IRFWQLKF")
+Added Pin To Net: NetName=GND Pin=X1-5

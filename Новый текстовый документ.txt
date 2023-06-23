@@ -1,0 +1,4 @@
+https://www.promelec.ru/product/337457/
+http://wiki.amperka.ru/_media/products:waveshare-raspberry-pi-pico-rtc-v1:ds3231-datasheet.pdf
+https://www.promelec.ru/product/139709/			https://www.onsemi.com/pdf/datasheet/ncp1402-d.pdf
+https://www.promelec.ru/product/336679/

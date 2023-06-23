@@ -1,0 +1,108 @@
+Added Component: Designator=C1(C0805)
+Add component (AddParameter): Name = "Isolation type"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1 uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C0805)
+Add component (AddParameter): Name = "Isolation type"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1 uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C0805)
+Add component (AddParameter): Name = "Isolation type"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1 uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(C0805)
+Add component (AddParameter): Name = "Isolation type"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1 uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C5(3216 (smd A))
+Add component (AddParameter): Name = "Package"; Value = "smd A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22 uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=C6(3216 (smd A))
+Add component (AddParameter): Name = "Package"; Value = "smd A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22 uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=C7(3216 (smd A))
+Add component (AddParameter): Name = "Package"; Value = "smd A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22 uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=C8(3216 (smd A))
+Add component (AddParameter): Name = "Package"; Value = "smd A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=DD1(LQFP-48)
+Add component (AddParameter): Name = "Part Number"; Value = "STM32F103C8"; VariantName = "[No Variations]"
+Added Component: Designator=DD2(SOT-23-5)
+Added Component: Designator=L1(LQH32CN)
+Add component (AddParameter): Name = "Current"; Value = "1 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "B82472G6154M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.tdk-electronics.tdk.com/inf/30/db/ind_2008/b82464g4.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 uH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Изготовитель"; Value = "EPCOS /  TDK"; VariantName = "[No Variations]"
+Added Component: Designator=VD1(SOD123)
+Add component (AddParameter): Name = "Part Number"; Value = "PMEG2010ER,115"; VariantName = "[No Variations]"
+Added Component: Designator=XS1(Micro USB)
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=DD1-8
+Added Pin To Net: NetName=GND Pin=DD1-23
+Added Pin To Net: NetName=GND Pin=DD1-35
+Added Pin To Net: NetName=GND Pin=DD1-47
+Added Pin To Net: NetName=GND Pin=DD2-4
+Added Pin To Net: NetName=GND Pin=XS1-4
+Added Pin To Net: NetName=GND Pin=XS1-5
+Added Net: Name=GND
+Added Pin To Net: NetName=NetDD1_32 Pin=DD1-32
+Added Pin To Net: NetName=NetDD1_32 Pin=XS1-2
+Added Net: Name=NetDD1_32
+Added Pin To Net: NetName=NetDD1_33 Pin=DD1-33
+Added Pin To Net: NetName=NetDD1_33 Pin=XS1-3
+Added Net: Name=NetDD1_33
+Added Pin To Net: NetName=NetDD2_5 Pin=DD2-5
+Added Pin To Net: NetName=NetDD2_5 Pin=L1-2
+Added Pin To Net: NetName=NetDD2_5 Pin=VD1-A
+Added Net: Name=NetDD2_5
+Added Pin To Net: NetName=VBAT Pin=C8-1
+Added Pin To Net: NetName=VBAT Pin=L1-1
+Added Net: Name=VBAT
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=VCC Pin=C2-1
+Added Pin To Net: NetName=VCC Pin=C2-2
+Added Pin To Net: NetName=VCC Pin=C3-1
+Added Pin To Net: NetName=VCC Pin=C3-2
+Added Pin To Net: NetName=VCC Pin=C4-1
+Added Pin To Net: NetName=VCC Pin=C4-2
+Added Pin To Net: NetName=VCC Pin=C5-1
+Added Pin To Net: NetName=VCC Pin=C6-1
+Added Pin To Net: NetName=VCC Pin=C7-1
+Added Pin To Net: NetName=VCC Pin=DD1-1
+Added Pin To Net: NetName=VCC Pin=DD1-9
+Added Pin To Net: NetName=VCC Pin=DD1-24
+Added Pin To Net: NetName=VCC Pin=DD1-36
+Added Pin To Net: NetName=VCC Pin=DD1-48
+Added Pin To Net: NetName=VCC Pin=DD2-1
+Added Pin To Net: NetName=VCC Pin=DD2-2
+Added Pin To Net: NetName=VCC Pin=VD1-K
+Added Pin To Net: NetName=VCC Pin=XS1-1
+Added Net: Name=VCC
+Added Class: Name=weather station PCB
+Added Room: Name=weather station PCB

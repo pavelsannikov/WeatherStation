@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=VCC Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=VCC Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C6-2
+Removed Pin From Net: NetName=VCC Pin=C7-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=VBAT Pin=C8-1
+Removed Pin From Net: NetName=GND Pin=C8-2
+Change Component Footprint: Designator=C5 Old Footprint=3216 (smd A) New Footprint=C0603
+Change Component Footprint: Designator=C6 Old Footprint=3216 (smd A) New Footprint=C0603
+Change Component Footprint: Designator=C7 Old Footprint=3216 (smd A) New Footprint=C0603
+Change Component Footprint: Designator=C8 Old Footprint=3216 (smd A) New Footprint=C0603
+Change component parameters: Designator = "C5" ("C5"); Footprint = "3216 (smd A)"; UniqueID = "\LGPBMAEG" ("\LGPBMAEG")
+Change component parameters (AddParameter): Name = "Isolation type"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22 uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "3216 (smd A)"; UniqueID = "\PFDGEUVD" ("\PFDGEUVD")
+Change component parameters (AddParameter): Name = "Isolation type"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22 uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "3216 (smd A)"; UniqueID = "\JUMGGFGG" ("\JUMGGFGG")
+Change component parameters (AddParameter): Name = "Isolation type"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22 uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "3216 (smd A)"; UniqueID = "\XKLJPXND" ("\XKLJPXND")
+Change component parameters (AddParameter): Name = "Isolation type"; Value = "X7R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Precision"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22 uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=VCC Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=VCC Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=VCC Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=VBAT Pin=C8-2

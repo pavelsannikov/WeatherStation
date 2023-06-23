@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=DD3 NewDesignator=HL1
+Change Component Designator: OldDesignator=HL1 NewDesignator=DD3
+Added Component: Designator=DD4(SOIC_W16)
+Added Component: Designator=DD5(BMP180)
+Added Member To Class: ClassName=weather station PCB Member=Component DD4 DS3231
+Added Member To Class: ClassName=weather station PCB Member=Component DD5 BMP180

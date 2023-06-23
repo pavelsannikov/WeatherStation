@@ -1,0 +1,4 @@
+Added Component: Designator=PDGO_GND(1 Hole)
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=PDGO_GND-1
+Added Member To Class: ClassName=weather station PCB Member=Component PDGO_GND Connector

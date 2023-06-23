@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NetC7_2 Pin=DD4-4
+Added Component: Designator=R6(R0805)
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=R6-2
+Added Pin To Net: NetName=NetDD1_39 Pin=DD1-39
+Added Pin To Net: NetName=NetDD1_39 Pin=SB1-1
+Added Net: Name=NetDD1_39
+Added Pin To Net: NetName=NetDD1_40 Pin=DD1-40
+Added Pin To Net: NetName=NetDD1_40 Pin=SB2-1
+Added Net: Name=NetDD1_40
+Added Pin To Net: NetName=NetDD1_41 Pin=DD1-41
+Added Pin To Net: NetName=NetDD1_41 Pin=SB3-1
+Added Net: Name=NetDD1_41
+Added Pin To Net: NetName=NetDD1_45 Pin=DD1-45
+Added Pin To Net: NetName=NetDD1_45 Pin=DD4-3
+Added Pin To Net: NetName=NetDD1_45 Pin=R6-1
+Added Net: Name=NetDD1_45
+Added Member To Class: ClassName=weather station PCB Member=Component R6 Resistor

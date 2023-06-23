@@ -1,0 +1,7 @@
+Added Component: Designator=R7(R0805)
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=USB_P Pin=R7-1
+Added Pin To Net: NetName=VCC Pin=R7-2
+Added Member To Class: ClassName=weather station PCB Member=Component R7 Resistor

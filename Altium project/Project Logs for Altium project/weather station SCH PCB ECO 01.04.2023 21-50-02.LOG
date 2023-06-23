@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VCC Pin=PROG+-1
+Removed Pin From Net: NetName=GND Pin=PROG--1
+Removed Member From Class: ClassName=weather station PCB Member=PROG+
+Removed Member From Class: ClassName=weather station PCB Member=PROG-

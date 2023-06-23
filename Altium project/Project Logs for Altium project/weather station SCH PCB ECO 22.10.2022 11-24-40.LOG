@@ -1,0 +1,214 @@
+Change Component Comment : Designator=DD2 Old Comment=DC/DC Converter New Comment=NCP1402
+Change Component Designator: OldDesignator=C1 NewDesignator=C8
+Change Component Designator: OldDesignator=C2 NewDesignator=C9
+Change Component Designator: OldDesignator=C3 NewDesignator=C10
+Change Component Designator: OldDesignator=C4 NewDesignator=C11
+Change Component Designator: OldDesignator=C5 NewDesignator=C2
+Change Component Designator: OldDesignator=C6 NewDesignator=C3
+Change Component Designator: OldDesignator=C7 NewDesignator=C4
+Change Component Designator: OldDesignator=C8 NewDesignator=C1
+Change Component Designator: OldDesignator=XS1 NewDesignator=X1
+Change component parameters: Designator = "XS2" ("XS2"); Footprint = "2 Holes"; UniqueID = "\WINRMJQE" ("\WINRMJQE")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "15EDGRM-3.81-02P"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1" ("L1"); Footprint = "LQH32CN"; UniqueID = "\SZHMCZQC" ("\SZHMCZQC")
+Change component parameters (AddParameter): Name = "Current"; Value = "170 mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "B82472G6154M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "URL"; Value = "https://www.tdk-electronics.tdk.com/inf/30/db/ind_2008/b82464g4.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "47 uH"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Изготовитель"; Value = "EPCOS /  TDK"; VariantName = "[No Variations]"
+Added Component: Designator=C5(C0805)
+Add component (AddParameter): Name = "Isolation type"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C6(C0805)
+Add component (AddParameter): Name = "Isolation type"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C7(C0603)
+Add component (AddParameter): Name = "Isolation type"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1 uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C12(C0603)
+Add component (AddParameter): Name = "Isolation type"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1 uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C13(C0603)
+Add component (AddParameter): Name = "Isolation type"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1 uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=DD6(AM2320 without CASE)
+Added Component: Designator=PDGO_C(1 Hole)
+Added Component: Designator=PROG+(1 Hole)
+Added Component: Designator=PROG-(1 Hole)
+Added Component: Designator=PROG_D(1 Hole)
+Added Component: Designator=R1(R0805)
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R0805)
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R0805)
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R0805)
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R0805)
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Precision"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=SB1(Button h=9mm)
+Add component (AddParameter): Name = "Part Number"; Value = "KLS7-TS6601-11-180"; VariantName = "[No Variations]"
+Added Component: Designator=SB2(Button h=9mm)
+Add component (AddParameter): Name = "Part Number"; Value = "KLS7-TS6601-11-180"; VariantName = "[No Variations]"
+Added Component: Designator=SB3(Button h=9mm)
+Add component (AddParameter): Name = "Part Number"; Value = "KLS7-TS6601-11-180"; VariantName = "[No Variations]"
+Added Component: Designator=VT1(SOT23-3)
+Add component (AddParameter): Name = "Part Number"; Value = "AUIRFR6215"; VariantName = "[No Variations]"
+Added Component: Designator=Y1(KX - 13)
+Add component (AddParameter): Name = "Value"; Value = "8 MHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=VCC Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=DD3-4
+Added Pin To Net: NetName=VCC Pin=DD4-2
+Added Pin To Net: NetName=GND Pin=DD4-5
+Added Pin To Net: NetName=GND Pin=DD4-6
+Added Pin To Net: NetName=GND Pin=DD4-7
+Added Pin To Net: NetName=GND Pin=DD4-8
+Added Pin To Net: NetName=GND Pin=DD4-9
+Added Pin To Net: NetName=GND Pin=DD4-10
+Added Pin To Net: NetName=GND Pin=DD4-11
+Added Pin To Net: NetName=GND Pin=DD4-12
+Added Pin To Net: NetName=GND Pin=DD4-13
+Added Pin To Net: NetName=VCC Pin=DD4-14
+Added Pin To Net: NetName=GND Pin=DD5-2
+Added Pin To Net: NetName=GND Pin=DD6-3
+Added Pin To Net: NetName=GND Pin=HL1-4
+Added Pin To Net: NetName=VCC Pin=PROG+-1
+Added Pin To Net: NetName=GND Pin=PROG--1
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=GND Pin=SB1-2
+Added Pin To Net: NetName=GND Pin=SB1-2
+Added Pin To Net: NetName=GND Pin=SB2-2
+Added Pin To Net: NetName=GND Pin=SB2-2
+Added Pin To Net: NetName=GND Pin=SB3-2
+Added Pin To Net: NetName=GND Pin=SB3-2
+Added Pin To Net: NetName=VCC Pin=VT1-3
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=DD1-6
+Added Pin To Net: NetName=NetC5_2 Pin=Y1-2
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=DD1-5
+Added Pin To Net: NetName=NetC6_2 Pin=Y1-1
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=DD1-7
+Added Pin To Net: NetName=NetC7_2 Pin=DD4-4
+Added Pin To Net: NetName=NetC7_2 Pin=R1-1
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetDD1_14 Pin=DD1-14
+Added Pin To Net: NetName=NetDD1_14 Pin=DD3-1
+Added Pin To Net: NetName=NetDD1_14 Pin=R3-1
+Added Net: Name=NetDD1_14
+Added Pin To Net: NetName=NetDD1_15 Pin=DD1-15
+Added Pin To Net: NetName=NetDD1_15 Pin=DD3-6
+Added Net: Name=NetDD1_15
+Added Pin To Net: NetName=NetDD1_16 Pin=DD1-16
+Added Pin To Net: NetName=NetDD1_16 Pin=DD3-2
+Added Net: Name=NetDD1_16
+Added Pin To Net: NetName=NetDD1_17 Pin=DD1-17
+Added Pin To Net: NetName=NetDD1_17 Pin=DD3-5
+Added Net: Name=NetDD1_17
+Added Pin To Net: NetName=NetDD1_26 Pin=DD1-26
+Added Pin To Net: NetName=NetDD1_26 Pin=SB1-1
+Added Pin To Net: NetName=NetDD1_26 Pin=SB1-1
+Added Net: Name=NetDD1_26
+Added Pin To Net: NetName=NetDD1_27 Pin=DD1-27
+Added Pin To Net: NetName=NetDD1_27 Pin=SB2-1
+Added Pin To Net: NetName=NetDD1_27 Pin=SB2-1
+Added Net: Name=NetDD1_27
+Added Pin To Net: NetName=NetDD1_28 Pin=DD1-28
+Added Pin To Net: NetName=NetDD1_28 Pin=SB3-1
+Added Pin To Net: NetName=NetDD1_28 Pin=SB3-1
+Added Net: Name=NetDD1_28
+Added Pin To Net: NetName=NetDD1_34 Pin=DD1-34
+Added Pin To Net: NetName=NetDD1_34 Pin=PROG_D-1
+Added Net: Name=NetDD1_34
+Added Pin To Net: NetName=NetDD1_37 Pin=DD1-37
+Added Pin To Net: NetName=NetDD1_37 Pin=PDGO_C-1
+Added Net: Name=NetDD1_37
+Added Pin To Net: NetName=NetDD1_42 Pin=DD1-42
+Added Pin To Net: NetName=NetDD1_42 Pin=DD4-16
+Added Pin To Net: NetName=NetDD1_42 Pin=DD5-3
+Added Pin To Net: NetName=NetDD1_42 Pin=DD6-4
+Added Pin To Net: NetName=NetDD1_42 Pin=HL1-2
+Added Pin To Net: NetName=NetDD1_42 Pin=R5-1
+Added Net: Name=NetDD1_42
+Added Pin To Net: NetName=NetDD1_43 Pin=DD1-43
+Added Pin To Net: NetName=NetDD1_43 Pin=DD4-15
+Added Pin To Net: NetName=NetDD1_43 Pin=DD5-4
+Added Pin To Net: NetName=NetDD1_43 Pin=DD6-2
+Added Pin To Net: NetName=NetDD1_43 Pin=HL1-1
+Added Pin To Net: NetName=NetDD1_43 Pin=R4-1
+Added Net: Name=NetDD1_43
+Added Pin To Net: NetName=NetDD1_45 Pin=DD1-45
+Added Pin To Net: NetName=NetDD1_45 Pin=R2-1
+Added Pin To Net: NetName=NetDD1_45 Pin=VT1-1
+Added Net: Name=NetDD1_45
+Added Pin To Net: NetName=VCC_POWERED Pin=C13-2
+Added Pin To Net: NetName=VCC_POWERED Pin=DD3-3
+Added Pin To Net: NetName=VCC_POWERED Pin=DD3-7
+Added Pin To Net: NetName=VCC_POWERED Pin=DD3-8
+Added Pin To Net: NetName=VCC_POWERED Pin=DD5-1
+Added Pin To Net: NetName=VCC_POWERED Pin=DD6-1
+Added Pin To Net: NetName=VCC_POWERED Pin=HL1-3
+Added Pin To Net: NetName=VCC_POWERED Pin=R3-2
+Added Pin To Net: NetName=VCC_POWERED Pin=R4-2
+Added Pin To Net: NetName=VCC_POWERED Pin=R5-2
+Added Pin To Net: NetName=VCC_POWERED Pin=VT1-2
+Added Net: Name=VCC_POWERED
+Added Member To Class: ClassName=weather station PCB Member=Component C9 Capacitor
+Added Member To Class: ClassName=weather station PCB Member=Component C10 Capacitor
+Added Member To Class: ClassName=weather station PCB Member=Component C11 Capacitor
+Added Member To Class: ClassName=weather station PCB Member=Component C12 Capacitor
+Added Member To Class: ClassName=weather station PCB Member=Component C13 Capacitor
+Added Member To Class: ClassName=weather station PCB Member=Component DD6 LCD Display
+Added Member To Class: ClassName=weather station PCB Member=Component PDGO_C Connector
+Added Member To Class: ClassName=weather station PCB Member=Component PROG+ Connector
+Added Member To Class: ClassName=weather station PCB Member=Component PROG- Connector
+Added Member To Class: ClassName=weather station PCB Member=Component PROG_D Connector
+Added Member To Class: ClassName=weather station PCB Member=Component R1 Resistor
+Added Member To Class: ClassName=weather station PCB Member=Component R2 Resistor
+Added Member To Class: ClassName=weather station PCB Member=Component R3 Resistor
+Added Member To Class: ClassName=weather station PCB Member=Component R4 Resistor
+Added Member To Class: ClassName=weather station PCB Member=Component R5 Resistor
+Added Member To Class: ClassName=weather station PCB Member=Component SB1 Tact Switch
+Added Member To Class: ClassName=weather station PCB Member=Component SB2 Tact Switch
+Added Member To Class: ClassName=weather station PCB Member=Component SB3 Tact Switch
+Added Member To Class: ClassName=weather station PCB Member=Component VT1 Transistor P-channel
+Added Member To Class: ClassName=weather station PCB Member=Component Y1 Crystal Oscillator

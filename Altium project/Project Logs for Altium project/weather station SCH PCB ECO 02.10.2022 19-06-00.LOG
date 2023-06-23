@@ -1,0 +1,10 @@
+Added Component: Designator=DD3(LCD 0.91inch module)
+Added Component: Designator=HL1(SOP-8)
+Add component (AddParameter): Name = "Part Number"; Value = "W25Q32FVSSIG"; VariantName = "[No Variations]"
+Added Component: Designator=XS2(2 Holes)
+Add component (AddParameter): Name = "Part Number"; Value = "2 holes"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBAT Pin=XS2-1
+Added Pin To Net: NetName=GND Pin=XS2-2
+Added Member To Class: ClassName=weather station PCB Member=Component DD3 LCD Display
+Added Member To Class: ClassName=weather station PCB Member=Component HL1 Flash memory
+Added Member To Class: ClassName=weather station PCB Member=Component XS2 Connector

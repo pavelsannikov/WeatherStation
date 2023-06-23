@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=PDGO_C NewDesignator=CLK
+Change Component Designator: OldDesignator=PDGO_GND NewDesignator=GND
+Change Component Designator: OldDesignator=PROG_D NewDesignator=IO

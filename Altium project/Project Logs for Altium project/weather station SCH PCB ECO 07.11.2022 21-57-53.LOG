@@ -1,0 +1,15 @@
+Added Component: Designator=SB1(Button SMD)
+Add component (AddParameter): Name = "Part Number"; Value = "KLS7-TS6601-11-180"; VariantName = "[No Variations]"
+Added Component: Designator=SB2(Button SMD)
+Add component (AddParameter): Name = "Part Number"; Value = "KLS7-TS6601-11-180"; VariantName = "[No Variations]"
+Added Component: Designator=SB3(Button SMD)
+Add component (AddParameter): Name = "Part Number"; Value = "KLS7-TS6601-11-180"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDD1_26 Pin=SB1-1
+Added Pin To Net: NetName=GND Pin=SB1-2
+Added Pin To Net: NetName=NetDD1_27 Pin=SB2-1
+Added Pin To Net: NetName=GND Pin=SB2-2
+Added Pin To Net: NetName=NetDD1_28 Pin=SB3-1
+Added Pin To Net: NetName=GND Pin=SB3-2
+Added Member To Class: ClassName=weather station PCB Member=Component SB1 Tact Switch
+Added Member To Class: ClassName=weather station PCB Member=Component SB2 Tact Switch
+Added Member To Class: ClassName=weather station PCB Member=Component SB3 Tact Switch
